@@ -1,0 +1,12 @@
+C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\bin\Debug\net6.0\system0.deps.json
+C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\bin\Debug\net6.0\system0.dll
+C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\bin\Debug\net6.0\system0.pdb
+C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\obj\Debug\net6.0\system0.csproj.AssemblyReference.cache
+C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\obj\Debug\net6.0\system0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\obj\Debug\net6.0\system0.AssemblyInfoInputs.cache
+C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\obj\Debug\net6.0\system0.AssemblyInfo.cs
+C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\obj\Debug\net6.0\system0.csproj.CoreCompileInputs.cache
+C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\obj\Debug\net6.0\system0.dll
+C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\obj\Debug\net6.0\refint\system0.dll
+C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\obj\Debug\net6.0\system0.pdb
+C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\obj\Debug\net6.0\ref\system0.dll
