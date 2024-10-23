@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iZnifpMwdEw=",
+  "dgSpecHash": "44zDyKhkIaw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\system0\\system0\\system0.csproj",
+  "projectFilePath": "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\System\\system0\\system0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2007f\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20241023083534\\cosmos.build.0.1.0-localbuild20241023083534.nupkg.sha512",
     "C:\\Users\\2007f\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20241023083547\\cosmos.common.0.1.0-localbuild20241023083547.nupkg.sha512",

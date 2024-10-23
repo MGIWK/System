@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\system0\\system0\\system0.csproj": {}
+    "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\System\\system0\\system0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\system0\\system0\\system0.csproj": {
+    "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\System\\system0\\system0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\system0\\system0\\system0.csproj",
+        "projectUniqueName": "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\System\\system0\\system0.csproj",
         "projectName": "system0",
-        "projectPath": "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\system0\\system0\\system0.csproj",
+        "projectPath": "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\System\\system0\\system0.csproj",
         "packagesPath": "C:\\Users\\2007f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\system0\\system0\\obj\\",
+        "outputPath": "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\System\\system0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\2007f\\AppData\\Roaming\\NuGet\\NuGet.Config",
