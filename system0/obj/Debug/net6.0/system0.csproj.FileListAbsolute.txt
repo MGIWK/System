@@ -23,3 +23,16 @@ D:\G\System\system0\obj\Debug\net6.0\system0.dll
 D:\G\System\system0\obj\Debug\net6.0\refint\system0.dll
 D:\G\System\system0\obj\Debug\net6.0\system0.pdb
 D:\G\System\system0\obj\Debug\net6.0\ref\system0.dll
+D:\system\System\system0\bin\Debug\net6.0\system0.deps.json
+D:\system\System\system0\bin\Debug\net6.0\system0.dll
+D:\system\System\system0\bin\Debug\net6.0\system0.pdb
+D:\system\System\system0\obj\Debug\net6.0\system0.csproj.AssemblyReference.cache
+D:\system\System\system0\obj\Debug\net6.0\system0.GeneratedMSBuildEditorConfig.editorconfig
+D:\system\System\system0\obj\Debug\net6.0\system0.AssemblyInfoInputs.cache
+D:\system\System\system0\obj\Debug\net6.0\system0.AssemblyInfo.cs
+D:\system\System\system0\obj\Debug\net6.0\system0.csproj.CoreCompileInputs.cache
+D:\system\System\system0\obj\Debug\net6.0\system0.sourcelink.json
+D:\system\System\system0\obj\Debug\net6.0\system0.dll
+D:\system\System\system0\obj\Debug\net6.0\refint\system0.dll
+D:\system\System\system0\obj\Debug\net6.0\system0.pdb
+D:\system\System\system0\obj\Debug\net6.0\ref\system0.dll

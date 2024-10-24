@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "PtZ58L1WDtA=",
+  "dgSpecHash": "7zp0cHsGLuU=",
   "success": true,
-  "projectFilePath": "D:\\G\\System\\system0\\system0.csproj",
+  "projectFilePath": "D:\\system\\System\\system0\\system0.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dell1\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20241024051505\\cosmos.build.0.1.0-localbuild20241024051505.nupkg.sha512",
-    "C:\\Users\\dell1\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20241024051519\\cosmos.common.0.1.0-localbuild20241024051519.nupkg.sha512",
-    "C:\\Users\\dell1\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20241024051519\\cosmos.core.0.1.0-localbuild20241024051519.nupkg.sha512",
-    "C:\\Users\\dell1\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20241024051519\\cosmos.debug.kernel.0.1.0-localbuild20241024051519.nupkg.sha512",
-    "C:\\Users\\dell1\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20241024051519\\cosmos.hal2.0.1.0-localbuild20241024051519.nupkg.sha512",
-    "C:\\Users\\dell1\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20241024051519\\cosmos.plugs.0.1.0-localbuild20241024051519.nupkg.sha512",
-    "C:\\Users\\dell1\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20241024051519\\cosmos.system2.0.1.0-localbuild20241024051519.nupkg.sha512",
-    "C:\\Users\\dell1\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20241024051519\\il2cpu.api.0.1.0-localbuild20241024051519.nupkg.sha512"
+    "C:\\Users\\zemla\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20241024080453\\cosmos.build.0.1.0-localbuild20241024080453.nupkg.sha512",
+    "C:\\Users\\zemla\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20241024080508\\cosmos.common.0.1.0-localbuild20241024080508.nupkg.sha512",
+    "C:\\Users\\zemla\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20241024080508\\cosmos.core.0.1.0-localbuild20241024080508.nupkg.sha512",
+    "C:\\Users\\zemla\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20241024080508\\cosmos.debug.kernel.0.1.0-localbuild20241024080508.nupkg.sha512",
+    "C:\\Users\\zemla\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20241024080508\\cosmos.hal2.0.1.0-localbuild20241024080508.nupkg.sha512",
+    "C:\\Users\\zemla\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20241024080508\\cosmos.plugs.0.1.0-localbuild20241024080508.nupkg.sha512",
+    "C:\\Users\\zemla\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20241024080508\\cosmos.system2.0.1.0-localbuild20241024080508.nupkg.sha512",
+    "C:\\Users\\zemla\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20241024080508\\il2cpu.api.0.1.0-localbuild20241024080508.nupkg.sha512"
   ],
   "logs": []
 }
