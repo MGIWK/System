@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\System\\system0\\system0.csproj": {}
+    "D:\\G\\System\\system0\\system0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\System\\system0\\system0.csproj": {
+    "D:\\G\\System\\system0\\system0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\System\\system0\\system0.csproj",
+        "projectUniqueName": "D:\\G\\System\\system0\\system0.csproj",
         "projectName": "system0",
-        "projectPath": "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\System\\system0\\system0.csproj",
-        "packagesPath": "C:\\Users\\2007f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2007f\\OneDrive\\Pulpit\\System\\System\\system0\\obj\\",
+        "projectPath": "D:\\G\\System\\system0\\system0.csproj",
+        "packagesPath": "C:\\Users\\dell1\\.nuget\\packages\\",
+        "outputPath": "D:\\G\\System\\system0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\2007f\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dell1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\2007f\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\dell1\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

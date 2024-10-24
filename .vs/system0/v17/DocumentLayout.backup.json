@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\G\\System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|d:\\g\\system\\system0\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|solutionrelative:system0\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kernel.cs",
+              "DocumentMoniker": "D:\\G\\System\\system0\\Kernel.cs",
+              "RelativeDocumentMoniker": "system0\\Kernel.cs",
+              "ToolTip": "D:\\G\\System\\system0\\Kernel.cs",
+              "RelativeToolTip": "system0\\Kernel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:28:03.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

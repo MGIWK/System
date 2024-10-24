@@ -10,3 +10,16 @@ C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\obj\Debug\net6.0\system0.d
 C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\obj\Debug\net6.0\refint\system0.dll
 C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\obj\Debug\net6.0\system0.pdb
 C:\Users\2007f\OneDrive\Pulpit\System\system0\system0\obj\Debug\net6.0\ref\system0.dll
+D:\G\System\system0\bin\Debug\net6.0\system0.deps.json
+D:\G\System\system0\bin\Debug\net6.0\system0.dll
+D:\G\System\system0\bin\Debug\net6.0\system0.pdb
+D:\G\System\system0\obj\Debug\net6.0\system0.csproj.AssemblyReference.cache
+D:\G\System\system0\obj\Debug\net6.0\system0.GeneratedMSBuildEditorConfig.editorconfig
+D:\G\System\system0\obj\Debug\net6.0\system0.AssemblyInfoInputs.cache
+D:\G\System\system0\obj\Debug\net6.0\system0.AssemblyInfo.cs
+D:\G\System\system0\obj\Debug\net6.0\system0.csproj.CoreCompileInputs.cache
+D:\G\System\system0\obj\Debug\net6.0\system0.sourcelink.json
+D:\G\System\system0\obj\Debug\net6.0\system0.dll
+D:\G\System\system0\obj\Debug\net6.0\refint\system0.dll
+D:\G\System\system0\obj\Debug\net6.0\system0.pdb
+D:\G\System\system0\obj\Debug\net6.0\ref\system0.dll
