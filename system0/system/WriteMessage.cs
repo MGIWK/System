@@ -43,5 +43,12 @@ namespace system0.system
             string centeredText = text.PadLeft(padding + text.Length).PadRight(consoleWidth);
             return centeredText;
         }
+        public static void WriteOk(string ok)
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write("[OK] ");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine(ok);
+        }
     }
 }

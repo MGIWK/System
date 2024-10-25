@@ -12,7 +12,7 @@ namespace system0
 
         public static string version = "0.1.0";
         public static string SystemName = "SKIBIDI";
-        public string path = @"0:\";
+        public static string path = @"0:\";
         public static CosmosVFS fs;
         protected override void BeforeRun()
         {
