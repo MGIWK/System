@@ -21,6 +21,18 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <None Remove="Resources\Cursors\Cursor1.bmp" />
+      <None Remove="Resources\Cursors\cursor2.bmp" />
+      <None Remove="Resources\Wallpapers\wllp1.bmp" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Include="Resources\Cursors\Cursor1.bmp" />
+      <EmbeddedResource Include="Resources\Cursors\Cursor2.bmp" />
+      <EmbeddedResource Include="Resources\Wallpapers\wllp1.bmp" />
+    </ItemGroup>
+
+    <ItemGroup>
         <PackageReference Include="Cosmos.Build" Version="0-*" NoWarn="NU1604" />
         <PackageReference Include="Cosmos.Debug.Kernel" Version="0-*" NoWarn="NU1604" />
         <PackageReference Include="Cosmos.System2" Version="0-*" NoWarn="NU1604" />

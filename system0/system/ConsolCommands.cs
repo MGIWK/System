@@ -185,6 +185,18 @@ namespace system0.system
                     else
                         Kernel.path = @"0:\";
                 }
+                else if (words[0] == "shutdown")
+                {
+                    Cosmos.System.Power.Shutdown();
+                }
+                else if (words[0] == "reboot")
+                {
+                    Cosmos.System.Power.Reboot();
+                }
+                else if(words[0] == "GUI")
+                {
+                    Boot.onBoot();
+                }
 
             }
             

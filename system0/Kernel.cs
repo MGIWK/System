@@ -1,7 +1,9 @@
-﻿using Cosmos.System.FileSystem;
+﻿using Cosmos.Core.Memory;
+using Cosmos.System.FileSystem;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using system0.Graphics;
 using system0.system;
 using Sys = Cosmos.System;
 
@@ -10,10 +12,13 @@ namespace system0
     public class Kernel : Sys.Kernel
     {
 
-        public static string version = "0.1.0";
-        public static string SystemName = "SKIBIDI";
+        public static string version = "0.1.5";
+        public static string SystemName = "bulboOS";
         public static string path = @"0:\";
         public static CosmosVFS fs;
+        public static bool RunGui;
+        int lastHeapCollect;
+
         protected override void BeforeRun()
         {
             Console.SetWindowSize(90,30);
@@ -28,10 +33,24 @@ namespace system0
 
         protected override void Run()
         {
-            Console.Write(path + ">");
-            var command = Console.ReadLine();
-            ConsolCommands.RunCommand(command);
-            Console.ForegroundColor = ConsoleColor.White;
+            if(!RunGui)
+            {
+                Console.Write(path + ">");
+                var command = Console.ReadLine();
+                ConsolCommands.RunCommand(command);
+                Console.ForegroundColor = ConsoleColor.White;
+            }
+            else
+            {
+                GUI.Update();
+            }
+            if (lastHeapCollect >= 20)
+            {
+                Heap.Collect();
+                lastHeapCollect = 0;
+            }
+            else
+                lastHeapCollect++;
         }
     }
 }
