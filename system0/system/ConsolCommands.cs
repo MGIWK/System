@@ -60,11 +60,137 @@ namespace system0.system
                     {
                         Console.WriteLine(Files[i]);
                     }
-                   }
+                }
+                else if (words[0] == "echo")
+                {
+                    if (words.Length > 1)
+                    {
+                        string wholestring = "";
+                        for (int i = 1;i < words.Length;i++)
+                        {
+                            wholestring += words[i] + " "; 
+                        }
+                        int pathIndex = wholestring.LastIndexOf(">");
+                        string text = wholestring.Substring(0, pathIndex);
+                        string path = wholestring.Substring(pathIndex + 1);
+                        if(!path.Contains(@"\"))
+                            path = Kernel.path + path;
+                        if(path.EndsWith(' '))
+                        {
+                            path = path.Substring(0, path.Length - 1);
+                        }
+                        var file_stream = File.Create(path);
+                        file_stream.Close();
+                        File.WriteAllText(path, text);
+                    }
+                    else
+                        WriteMessage.WriteError("Invalid Syntax");
+                }
+                else if (words[0] == "cat")
+                {
+                    if (words.Length > 1)
+                    {
+
+                        string path = words[1];
+                        if (!path.Contains(@"\"))
+                            path = Kernel.path + path;
+                        if (path.EndsWith(' '))
+                        {
+                            path = path.Substring(0, path.Length - 1);
+                        }
+                        if (File.Exists(path))
+                        {
+                            string text = File.ReadAllText(path);
+                            Console.ForegroundColor = ConsoleColor.Gray;
+                            Console.WriteLine(text);
+                        }
+                        else
+                            WriteMessage.WriteError("File " + path + " not found!");
+                    }
+                    else
+                        WriteMessage.WriteError("Invalid Syntax");
+                }
+                else if (words[0] == "del")
+                {
+                    if (words.Length > 1)
+                    {
+
+                        string path = words[1];
+                        if (!path.Contains(@"\"))
+                            path = Kernel.path + path;
+                        if (path.EndsWith(' '))
+                        {
+                            path = path.Substring(0, path.Length - 1);
+                        }
+                        if (File.Exists(path))
+                        {
+                            File.Delete(path);
+                            WriteMessage.WriteOk("Deleted " + path + "!");
+                        }
+                        else
+                            WriteMessage.WriteError("File " + path + " not found!");
+                    }
+                    else
+                        WriteMessage.WriteError("Invalid Syntax");
+                }
+                else if (words[0] == "mkdir")
+                {
+                    if (words.Length > 1)
+                    {
+
+                        string path = words[1];
+                        if (!path.Contains(@"\"))
+                            path = Kernel.path + path;
+                        if (path.EndsWith(' '))
+                        {
+                            path = path.Substring(0, path.Length - 1);
+                        }
+                        Directory.CreateDirectory(path);
+                    }
+                    else
+                        WriteMessage.WriteError("Invalid Syntax");
+                }
+                else if (words[0] == "cd")
+                {
+                    if (words.Length > 1)
+                    {
+                        if (words[1] == "..")
+                        {
+                            if (Kernel.path != @"0:\")
+                            {
+                                string tempPath = Kernel.path.Substring(0, Kernel.path.Length - 1);
+                                Kernel.path = tempPath.Substring(0, tempPath.LastIndexOf(@"\") + 1);
+                                return;
+                            }
+                            else
+                                return;
+                            
+                        }
+                        string path = words[1];
+                        if (!path.Contains(@"\"))
+                            path = Kernel.path + path;
+                        if (path.EndsWith(' '))
+                        {
+                            path = path.Substring(0, path.Length - 1);
+                        }
+                        if(!path.EndsWith(@"\"))
+                            path += @"\";
+                        if (Directory.Exists(path))
+                            Kernel.path = path;
+                        else
+                            WriteMessage.WriteError("Directory " + path + " not found!");
+
+                        
+                    }
+                    else
+                        Kernel.path = @"0:\";
+                }
+
             }
+            
             else
             {
-
+                WriteMessage.WriteError("Please enter valid command!");
             }
         }
     }

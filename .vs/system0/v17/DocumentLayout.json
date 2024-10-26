@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -35,25 +35,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T19:28:03.913Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WriteMessage.cs",
-              "DocumentMoniker": "D:\\system\\System\\system0\\system\\WriteMessage.cs",
-              "RelativeDocumentMoniker": "system0\\system\\WriteMessage.cs",
-              "ToolTip": "D:\\system\\System\\system0\\system\\WriteMessage.cs",
-              "RelativeToolTip": "system0\\system\\WriteMessage.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T18:15:40.24Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,10 +49,22 @@
               "RelativeDocumentMoniker": "system0\\system\\ConsolCommands.cs",
               "ToolTip": "D:\\system\\System\\system0\\system\\ConsolCommands.cs",
               "RelativeToolTip": "system0\\system\\ConsolCommands.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDYAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwB4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T18:13:22.269Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WriteMessage.cs",
+              "DocumentMoniker": "D:\\system\\System\\system0\\system\\WriteMessage.cs",
+              "RelativeDocumentMoniker": "system0\\system\\WriteMessage.cs",
+              "ToolTip": "D:\\system\\System\\system0\\system\\WriteMessage.cs",
+              "RelativeToolTip": "system0\\system\\WriteMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:15:40.24Z"
             }
           ]
         }

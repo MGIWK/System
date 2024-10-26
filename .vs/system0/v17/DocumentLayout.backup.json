@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\system\\System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|d:\\system\\system\\system0\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|solutionrelative:system0\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|d:\\system\\system\\system0\\system\\consolcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|solutionrelative:system0\\system\\consolcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|d:\\system\\system\\system0\\system\\writemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|solutionrelative:system0\\system\\writemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|d:\\system\\system\\system0\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|solutionrelative:system0\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kernel.cs",
+              "DocumentMoniker": "D:\\system\\System\\system0\\Kernel.cs",
+              "RelativeDocumentMoniker": "system0\\Kernel.cs",
+              "ToolTip": "D:\\system\\System\\system0\\Kernel.cs",
+              "RelativeToolTip": "system0\\Kernel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:28:03.913Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WriteMessage.cs",
-              "DocumentMoniker": "D:\\system\\System\\system0\\system\\WriteMessage.cs",
-              "RelativeDocumentMoniker": "system0\\system\\WriteMessage.cs",
-              "ToolTip": "D:\\system\\System\\system0\\system\\WriteMessage.cs",
-              "RelativeToolTip": "system0\\system\\WriteMessage.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T18:15:40.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ConsolCommands.cs",
               "DocumentMoniker": "D:\\system\\System\\system0\\system\\ConsolCommands.cs",
               "RelativeDocumentMoniker": "system0\\system\\ConsolCommands.cs",
-              "ToolTip": "D:\\system\\System\\system0\\system\\ConsolCommands.cs",
-              "RelativeToolTip": "system0\\system\\ConsolCommands.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "ToolTip": "D:\\system\\System\\system0\\system\\ConsolCommands.cs*",
+              "RelativeToolTip": "system0\\system\\ConsolCommands.cs*",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAmwKEAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T18:13:22.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Kernel.cs",
-              "DocumentMoniker": "D:\\system\\System\\system0\\Kernel.cs",
-              "RelativeDocumentMoniker": "system0\\Kernel.cs",
-              "ToolTip": "D:\\system\\System\\system0\\Kernel.cs",
-              "RelativeToolTip": "system0\\Kernel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "WriteMessage.cs",
+              "DocumentMoniker": "D:\\system\\System\\system0\\system\\WriteMessage.cs",
+              "RelativeDocumentMoniker": "system0\\system\\WriteMessage.cs",
+              "ToolTip": "D:\\system\\System\\system0\\system\\WriteMessage.cs",
+              "RelativeToolTip": "system0\\system\\WriteMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T19:28:03.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T18:15:40.24Z"
             }
           ]
         }
