@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\system\\System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|d:\\system\\system\\system0\\resources\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|solutionrelative:system0\\resources\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|d:\\system\\system\\system0\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|solutionrelative:system0\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|d:\\system\\system\\system0\\resources\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|solutionrelative:system0\\resources\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18C58738-B6B4-472F-9AF4-7ED2AF3723E4}|system0\\system0.csproj|d:\\system\\system\\system0\\system\\boot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Kernel.cs",
               "DocumentMoniker": "D:\\system\\System\\system0\\Kernel.cs",
               "RelativeDocumentMoniker": "system0\\Kernel.cs",
               "ToolTip": "D:\\system\\System\\system0\\Kernel.cs",
               "RelativeToolTip": "system0\\Kernel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T19:28:03.913Z",
               "IsPinned": true,
@@ -64,21 +64,19 @@
               "RelativeToolTip": "system0\\system\\Boot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T12:27:24.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T12:27:24.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Files.cs",
               "DocumentMoniker": "D:\\system\\System\\system0\\Resources\\Files.cs",
               "RelativeDocumentMoniker": "system0\\Resources\\Files.cs",
-              "ToolTip": "D:\\system\\System\\system0\\Resources\\Files.cs*",
-              "RelativeToolTip": "system0\\Resources\\Files.cs*",
+              "ToolTip": "D:\\system\\System\\system0\\Resources\\Files.cs",
+              "RelativeToolTip": "system0\\Resources\\Files.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T12:21:02.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T12:21:02.446Z"
             },
             {
               "$type": "Document",
@@ -90,8 +88,7 @@
               "RelativeToolTip": "system0\\Graphics\\GUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T12:12:59.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T12:12:59.555Z"
             },
             {
               "$type": "Document",
@@ -103,8 +100,7 @@
               "RelativeToolTip": "system0\\system\\ConsolCommands.cs",
               "ViewState": "AgIAALQAAAAAAAAAAAAAAMUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T18:13:22.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T18:13:22.269Z"
             },
             {
               "$type": "Document",

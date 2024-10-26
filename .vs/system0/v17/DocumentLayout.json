@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "system0\\Kernel.cs",
               "ToolTip": "D:\\system\\System\\system0\\Kernel.cs",
               "RelativeToolTip": "system0\\Kernel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T19:28:03.913Z",
               "IsPinned": true,
@@ -64,8 +64,7 @@
               "RelativeToolTip": "system0\\system\\Boot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T12:27:24.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T12:27:24.393Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "system0\\Resources\\Files.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T12:21:02.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T12:21:02.446Z"
             },
             {
               "$type": "Document",
@@ -90,8 +88,7 @@
               "RelativeToolTip": "system0\\Graphics\\GUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T12:12:59.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T12:12:59.555Z"
             },
             {
               "$type": "Document",
@@ -103,8 +100,7 @@
               "RelativeToolTip": "system0\\system\\ConsolCommands.cs",
               "ViewState": "AgIAALQAAAAAAAAAAAAAAMUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T18:13:22.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T18:13:22.269Z"
             },
             {
               "$type": "Document",
